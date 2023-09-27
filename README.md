@@ -3,7 +3,9 @@ Graduate student at the West University of Timișoara | Specializing in Informat
 
 📧 [Email](mailto:sovaandi02@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/andrei-%C8%99ova-a77a85219/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiSova)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Featured Projects
 
