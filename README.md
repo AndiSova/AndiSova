@@ -5,7 +5,7 @@ Graduate student at the West University of Timișoara | Specializing in Informat
 
 ## GitHub Stats
 
-[![Andi Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiSova&layout=donut&show_icons=true&theme=radical)](https://github.com/AndiSova/AndiSova)
+[![Andi Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiSova&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/AndiSova/AndiSova)
 [![Andi GitHub stats](https://github-readme-stats.vercel.app/api?username=AndiSova&show_icons=true&theme=radical)](https://github.com/AndiSova/AndiSova)
 
 ## Featured Projects
